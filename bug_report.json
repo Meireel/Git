@@ -1,0 +1,11 @@
+{
+  "skills": [
+{ 
+"formatName":"JSON",
+"formatName":"XML",
+"apiTestInstrument:"Postman",
+"terminal":"bash"
+"systemOfVersions":"Git"
+}
+ ]
+};
